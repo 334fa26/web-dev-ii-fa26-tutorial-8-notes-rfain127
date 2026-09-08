@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "web-dev-ii-fa26"
+assignment: "tutorial-8-notes"
+owner:
+  username: "rfain127"
+  id: 254727533
+  accepted_at: "2026-09-08T17:31:20Z"
+source:
+  owner: "334fa26"
+  owner_id: 299231041
+  repo: "tutorial8notes"
+  branch: "main"
